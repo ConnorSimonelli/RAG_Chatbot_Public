@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+python-dotenv
+validators
+beautifulsoup4
+playwright
+requests

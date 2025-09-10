@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+
+# Data and indices
+RAGData/
+faissIndex/
+
+# Playwright cache (optional)
+playwright/.cache/
